@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
