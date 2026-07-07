@@ -49,5 +49,6 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
