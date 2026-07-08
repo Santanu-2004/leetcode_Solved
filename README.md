@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0704-binary-search) |
@@ -14,6 +15,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0876-middle-of-the-linked-list) |
