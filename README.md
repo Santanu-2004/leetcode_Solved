@@ -46,6 +46,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
