@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0009-palindrome-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0069-sqrtx) |
+| [0877-stone-game](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +76,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0203-remove-linked-list-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
