@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0877-stone-game) |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
