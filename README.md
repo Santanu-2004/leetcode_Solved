@@ -97,4 +97,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
