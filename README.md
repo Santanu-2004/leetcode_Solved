@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0704-binary-search) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0136-single-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
