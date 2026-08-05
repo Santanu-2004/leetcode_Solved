@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Santanu-2004/leetcode_Solved/tree/master/3731-find-missing-elements) |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
