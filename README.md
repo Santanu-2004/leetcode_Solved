@@ -79,6 +79,7 @@
 | [0069-sqrtx](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Santanu-2004/leetcode_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0643-maximum-average-subarray-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Santanu-2004/leetcode_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
