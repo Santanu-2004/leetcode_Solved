@@ -26,6 +26,7 @@
 | [0011-container-with-most-water](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0141-linked-list-cycle) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Santanu-2004/leetcode_Solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -134,4 +136,20 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Santanu-2004/leetcode_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Santanu-2004/leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
